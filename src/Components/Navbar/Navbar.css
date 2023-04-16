@@ -1,0 +1,38 @@
+nav{
+    width: 100%;
+    height: 45px;
+  box-shadow: 4px 2px 5px 2px gray;
+    
+}
+.main{
+    display: flex;
+    width: 100%;
+    height: 45px ;
+    align-items: center;
+    justify-content: space-between  ;
+    margin-left: 20px;
+}
+.logo{
+    text-transform: uppercase;
+}
+.icon{
+    margin-right: 60px;
+    padding: 5px;
+    background-color: ;
+    position: relative;
+    border-radius: 8px;
+}
+.icon-c{
+    font-size: x-large;
+    color: brown;
+}
+.counter{
+    background-color: black;
+    width: 20px;
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: -4px;
+    right: px;
+}
